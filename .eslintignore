@@ -1,6 +1,6 @@
 .yarn/*
 node_modules/
 dist/
-.prettierrc.js
+.prettierrc.cjs
 .eslintrc.cjs
 env.d.ts
